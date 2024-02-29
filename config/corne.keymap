@@ -53,8 +53,8 @@
             //   SHIFT (    Z          X          C          V          B                N          M          , <        . >        / ?        SHIFT )
                  &lscsh     &kp Z      &kp X      &kp C      &kp V      &kp B            &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &rscsh
             // +----------+----------+----------+----------+----------+----------+     +----------+----------+----------+----------+----------+----------+
-            //                                    CTRL       LOWER      SPACE            ENTER      RAISE      BKSP DEL
-                                                  &kp LCTRL  &mo LOWER  &kp SPACE        &kp ENTER  &mo RAISE  &bkspd
+            //                                    CTRL       LOWER      ENTER            SPACE      RAISE      BKSP DEL
+                                                  &kp LCTRL  &mo LOWER  &kp ENTER        &kp SPACE  &mo RAISE  &bkspd
             //                                  +----------+----------+----------+     +----------+----------+----------+
             //
             // * Notes:
